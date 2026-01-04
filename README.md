@@ -7,6 +7,8 @@ A lightweight **userscript** that adds a **movable + resizable chat mirror windo
 
 ---
 
+<img src="https://github.com/cybershrapnel/Suno_Chat/blob/main/G90OTxWWsAAObCW.jpg?raw=true">
+
 ## Features
 
 ### Chat mirror overlay
