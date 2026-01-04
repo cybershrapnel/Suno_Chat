@@ -60,9 +60,9 @@ A lightweight **userscript** that adds a **movable + resizable chat mirror windo
 ## Install
 
 ### Option A — Tampermonkey (recommended)
-1. Install **Tampermonkey** (Chrome/Edge/Firefox) or **Violentmonkey**
+1. Install **Tampermonkey** (Chrome/Edge/Firefox) or **Violentmonkey** or paste directly into console and run
 2. Create a new script
-3. Paste the contents of `SunoChatMirror.user.js`
+3. Paste the contents of `Suno_Chat.js`
 4. Save
 5. Visit: `https://suno.com/live-radio`
 
