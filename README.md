@@ -67,7 +67,7 @@ A lightweight **userscript** that adds a **movable + resizable chat mirror windo
 5. Visit: `https://suno.com/live-radio`
 
 ### Option B — “Userscript extension wrapper”
-If you’re packaging this into a Chrome extension ZIP, the script still works the same — just ensure it runs on `https://suno.com/*` and is injected at document-idle.
+Install the developer chrome extension from the releases page here. I am trying to get it listed on the chrome web store.
 
 ---
 
