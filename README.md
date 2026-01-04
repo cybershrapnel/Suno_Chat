@@ -13,6 +13,8 @@ A lightweight **userscript** that adds a **movable + resizable chat mirror windo
 
 ## Features
 
+Added encyrption for channel rooms (optional) and linking for suno link only so they are clickable to open in new tab.
+
 ### Chat mirror overlay
 - Mirrors the Live Radio chat feed into a separate window
 - **Draggable + resizable**
