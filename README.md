@@ -1,7 +1,7 @@
 
 # Suno Chat Mirror (Live Radio Overlay)
 
-Install the extension from the releases page here: https://github.com/cybershrapnel/Suno_Chat/releases/tag/suno
+Install the extension from the releases page here: [https://github.com/cybershrapnel/Suno_Chat/releases/tag/suno](https://github.com/cybershrapnel/Suno_Chat/releases/tag/suno_chat_1.3.6)
 
 A lightweight **userscript** that adds a **movable + resizable chat mirror window** for **Suno Live Radio chat**. It mirrors the live chat feed, lets you filter/route messages by “ROOMx:” prefixes, block users, and send messages via the real Suno input — all from a separate overlay.
 
