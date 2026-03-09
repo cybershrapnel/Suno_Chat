@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "NCZ Suno Chat Mirror (Exact 1.3.6)",
+  "version": "1.3.6",
+  "description": "Exact 1.3.6 script packaged as a Chrome extension (chat mirror overlay with rooms, blocklist, send).",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "downloads"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://suno.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "host_permissions": [
+    "https://suno.com/*",
+    "https://studio-api.prod.suno.com/*",
+    "https://*.suno.ai/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "ncz-json-media-downloader.js"
+      ],
+      "matches": [
+        "https://suno.com/*"
+      ]
+    }
+  ]
+}
