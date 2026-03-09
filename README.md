@@ -11,6 +11,7 @@ A lightweight **userscript** that adds a **movable + resizable chat mirror windo
 
 <img src="https://github.com/cybershrapnel/Suno_Chat/blob/main/G90OTxWWsAAObCW.jpg?raw=true">
 
+<img src="https://github.com/cybershrapnel/Suno_Chat/blob/main/downloader.png?raw=true">
 ## Features
 
 Added encyrption for channel rooms (optional) and linking for suno link only so they are clickable to open in new tab.
